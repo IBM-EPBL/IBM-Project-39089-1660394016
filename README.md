@@ -5,3 +5,5 @@ Nalaiyathiran Task
 2.Exploration of data
 3.Exploration Of Max Heart Rate During The Chest Pain
 4.Exploration of Cholesterol by Age and Gender
+5.Serum Cholesterol Levels Vs Age
+6.Average Exercise Angina During Chest Pain
